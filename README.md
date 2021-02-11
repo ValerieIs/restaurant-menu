@@ -6,3 +6,4 @@
 - React + Redux
 - React DOM
 - React Router DOM
+- JSON-server package
