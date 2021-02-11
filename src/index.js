@@ -10,6 +10,7 @@ import store from './store';
 
 import './index.scss';
 
+
 const restoService = new RestoService();
 
 ReactDOM.render(
@@ -22,5 +23,6 @@ ReactDOM.render(
             </RestoServiceContext.Provider>
         </ErrorBoundry>
     </Provider>
-    , document.getElementById('root'));
+    , document.getElementById('root')
+);
 
