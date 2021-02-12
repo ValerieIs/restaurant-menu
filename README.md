@@ -7,3 +7,5 @@
 - React DOM
 - React Router DOM
 - JSON-server package
+
+##### !Using HashRouter instead of BrowserRouter because of gh-pages
